@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicholas Davis
 - 👀 I’m interested in Game development and machine learning
-- 🌱 I’m currently learning Unity(personal), machine learnng(Foraml Education)
+- 🌱 I’m currently learning Unity(personal), aws(formal education and personal study)
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me ndavisprojects@gmail.com
 
@@ -12,17 +12,47 @@ AWS Certified Developer - Associate
 
 ### Projects
 
+##### Merch-Search
+An app that connects to users' MyAnimeList accounts and finds anime merchandise they might be interested in on eBay based on their taste.
+This app utilizes both the MyAnimeList API and the eBay API. 
+###### stack
+- Golang
+- Docker
+- dynamoDB
+- AWS CodePipeline
+- loggly
+
+##### Virtual-Gallery discord bot and webPages
+A discord bot that allows its users to have an interactive experience with art through a series of discord slash commands, dropdown menus, and companion webpages that will take the interactive experience from discord to the web.
+###### stack
+- Python
+- discord.py wrapper
+- Heroku (deployment, CI/CD)
+- GitHub
+- React Frontend (tentative)
+
 ##### dictionary discord bot
-turn a dicord into an interactive dictionary with the goal of preserving dying dyalects. Currently collecting know terms, phrases, and sentence structures of the, 沖縄口, Uchinaa language (okinawan dialect)
+Turn discord into an interactive dictionary with the goal of preserving dying dialects. Currently collecting known terms, phrases, and sentence structures of the 沖縄口(en: Uchinaa language) aka Okinawan dialect.
+
+###### stack
+- Python
+- discord.py wrapper
+- Heroku (deployment, CI/CD)
+- GitHub
 
 ##### Turning a traditional Japanese game digital
-My person and modern take on a game played by Japanese people for many generations. 
+My personal and modern take on a game played by Japanese people for many generations. 
+###### stack
+- c#
+- unity
 
 Real title will be hidden until the initial release
 
 ##### Racing game
 A competitive multiplayer racing game. first to the end wins. 
-
+###### stack
+- c#
+- unity
 
 
 <!---
