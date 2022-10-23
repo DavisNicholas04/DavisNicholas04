@@ -26,7 +26,7 @@ This app utilizes both the MyAnimeList API and the eBay API.
 A discord bot that allows its users to have an interactive experience with art through a series of discord slash commands, dropdown menus, and companion webpages that will take the interactive experience from discord to the web.
 ###### stack
 - Python
-- discord.py wrapper
+- interactions.py wrapper
 - Heroku (deployment, CI/CD)
 - GitHub
 - React Frontend (tentative)
