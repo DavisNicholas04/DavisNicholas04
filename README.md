@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nicholas Davis
-- 👀 I’m interested in Game development and machine learning
-- 🌱 I’m currently learning Unity(personal), aws(formal education and personal study)
-- 💞️ I’m looking to collaborate on N/A
+- 👀 I’m interested in Game and application development
+- 🌱 I’m currently developing a competative 3d mobile game 
+- 💞️ I’m not looking to collaborate on any of my projects but feel free to reach out to me. 
 - 📫 How to reach me ndavisprojects@gmail.com
 
 ## currently working on
